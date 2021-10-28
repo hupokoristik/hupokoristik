@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @test0f.
+- 👋 Hi, I’m @hupokoristik.
 - 👀 I’m interested in helping and learning.
 - 🌱 I’m ever curious about computing and nowadays poking around AI, decentralized assets, IoT, and IFTTT.
 - 💞️ I’m looking to collaborate on ...
